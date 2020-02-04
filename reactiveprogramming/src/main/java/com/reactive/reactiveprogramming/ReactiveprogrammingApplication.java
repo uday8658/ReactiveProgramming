@@ -8,7 +8,6 @@ public class ReactiveprogrammingApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ReactiveprogrammingApplication.class, args);
-		System.out.println("hi");
 	}
 
 }
